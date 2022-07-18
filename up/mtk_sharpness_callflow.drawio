@@ -1,187 +1,208 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T09:07:11.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="qHcpD0B5mm9R9S3JJmnC" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T01:48:32.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="9uxBdz9zVZ9SbwFwWBGm" version="20.0.4" type="github">
   <diagram id="i-S-DeW-HnDHJZ4Ts8-F" name="Page-1">
-    <mxGraphModel dx="2249" dy="4261" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="4141" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-65" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-825" y="-3472" width="820" height="1040" as="geometry" />
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-65" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-825" y="-3386" width="820" height="1040" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-1" value="setConfigValue" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-1" value="setConfigValue" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-2" value="setConfigValue_native" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-2" value="setConfigValue_native" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="10" y="79.28999999999999" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-1" target="2V859yG5IAHDhK3OwIjZ-2">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-1" target="2V859yG5IAHDhK3OwIjZ-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-4" value="&lt;div&gt;MtkTvConfigBase.java (vendor\mediatek\proprietary_tv\open\frameworks\broadcast\twoworlds\tv\java\com\mediatek\twoworlds\tv)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-4" value="&lt;div&gt;MtkTvConfigBase.java (vendor\mediatek\proprietary_tv\open\frameworks\broadcast\twoworlds\tv\java\com\mediatek\twoworlds\tv)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="390" y="5" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-5" value="&lt;div&gt;&lt;div&gt;TVNativeWrapper.java (vendor\mediatek\proprietary_tv\open\frameworks\broadcast\twoworlds\tv\java\com\mediatek\twoworlds\tv)&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-5" value="&lt;div&gt;&lt;div&gt;TVNativeWrapper.java (vendor\mediatek\proprietary_tv\open\frameworks\broadcast\twoworlds\tv\java\com\mediatek\twoworlds\tv)&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="400" y="85" width="200" height="28.58" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-7" value="Java_com_mediatek_twoworlds_tv_TVNative_setConfigValue_1native" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-7" value="Java_com_mediatek_twoworlds_tv_TVNative_setConfigValue_1native" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="10" y="160" width="380" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-2" target="2V859yG5IAHDhK3OwIjZ-7">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-2" target="2V859yG5IAHDhK3OwIjZ-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-9" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;com_mediatek_twoworlds_tv_MtkTvConfig.c (vendor\mediatek\proprietary_tv\open\frameworks\broadcast\twoworlds\tv\jni)&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-9" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;com_mediatek_twoworlds_tv_MtkTvConfig.c (vendor\mediatek\proprietary_tv\open\frameworks\broadcast\twoworlds\tv\jni)&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="510" y="160" width="200" height="28.58" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-10" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;startArrow=none;" edge="1" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-11">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-10" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;startArrow=none;" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="140" as="sourcePoint" />
             <mxPoint x="10" y="145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-11" value="JNI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-11" value="JNI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="240" y="130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-12" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="2V859yG5IAHDhK3OwIjZ-65" target="2V859yG5IAHDhK3OwIjZ-11">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-12" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="2V859yG5IAHDhK3OwIjZ-65" target="2V859yG5IAHDhK3OwIjZ-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="145" as="sourcePoint" />
             <mxPoint x="10" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-13" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;Client&lt;/b&gt;&lt;/font&gt;: a_mtktvapi_config_set_value" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-13" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;Client&lt;/b&gt;&lt;/font&gt;: a_mtktvapi_config_set_value" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="10" y="240" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-7" target="2V859yG5IAHDhK3OwIjZ-13">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-7" target="2V859yG5IAHDhK3OwIjZ-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-15" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Hw_mtktvapi_config.cpp (vendor\mediatek\proprietary_tv\open\hardware\mtk_interfaces\tv\mtktvapi\1.0\clientwrapper)&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-15" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Hw_mtktvapi_config.cpp (vendor\mediatek\proprietary_tv\open\hardware\mtk_interfaces\tv\mtktvapi\1.0\clientwrapper)&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="414" y="240" width="200" height="28.58" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-16" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;startArrow=none;" edge="1" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-20">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-16" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;startArrow=none;" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="320" as="sourcePoint" />
             <mxPoint x="820" y="320" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-18" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;service&lt;/font&gt;&lt;/b&gt;:a_hidl_a_mtktvapi_config_set_value" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-18" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;service&lt;/font&gt;&lt;/b&gt;:a_hidl_a_mtktvapi_config_set_value" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="10" y="360" width="261" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-13" target="2V859yG5IAHDhK3OwIjZ-18">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-13" target="2V859yG5IAHDhK3OwIjZ-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-20" value="Binder" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-20" value="Binder" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="240" y="300" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="2V859yG5IAHDhK3OwIjZ-65" target="2V859yG5IAHDhK3OwIjZ-20">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="2V859yG5IAHDhK3OwIjZ-65" target="2V859yG5IAHDhK3OwIjZ-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="320" as="sourcePoint" />
             <mxPoint x="820" y="320" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-22" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;MtkTvApiConfigImpl.cpp (vendor\mediatek\proprietary_tv\open\hardware\mtk_interfaces\tv\mtktvapi\1.0\default)&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-22" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;MtkTvApiConfigImpl.cpp (vendor\mediatek\proprietary_tv\open\hardware\mtk_interfaces\tv\mtktvapi\1.0\default)&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="444" y="360" width="200" height="28.58" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-23" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Mtktvapi_config.c (vendor\mediatek\proprietary_tv\apollo\custom\dev\app_util\mtktvapi)&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-23" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Mtktvapi_config.c (vendor\mediatek\proprietary_tv\apollo\custom\dev\app_util\mtktvapi)&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="400" y="445" width="200" height="28.58" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-24" value="a_mtktvapi_config_set_value" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-24" value="a_mtktvapi_config_set_value" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="10" y="445" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-18" target="2V859yG5IAHDhK3OwIjZ-24">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-18" target="2V859yG5IAHDhK3OwIjZ-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-26" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Acfg_video.c (vendor\mediatek\proprietary_tv\apollo\custom\dev\app_util\config)&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-26" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Acfg_video.c (vendor\mediatek\proprietary_tv\apollo\custom\dev\app_util\config)&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="410" y="520" width="200" height="28.58" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-27" value="acfg_video_set" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-27" value="acfg_video_set" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="10" y="520" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-24" target="2V859yG5IAHDhK3OwIjZ-27">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-24" target="2V859yG5IAHDhK3OwIjZ-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-29" value="acfg_video_set&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;a_cfg_av_update&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-29" value="acfg_video_set&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;a_cfg_av_update&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="10" y="600" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-27" target="2V859yG5IAHDhK3OwIjZ-29">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-27" target="2V859yG5IAHDhK3OwIjZ-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-31" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Acfg_video.c (vendor\mediatek\proprietary_tv\apollo\custom\dev\app_util\config)&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-31" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Acfg_video.c (vendor\mediatek\proprietary_tv\apollo\custom\dev\app_util\config)&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="410" y="605.71" width="200" height="28.58" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-32" value="MTGVDO_SetArg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-32" value="MTGVDO_SetArg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="10" y="680" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-29" target="2V859yG5IAHDhK3OwIjZ-32">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-29" target="2V859yG5IAHDhK3OwIjZ-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-35" value="_MTGVDO_SetSharpness" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-35" value="_MTGVDO_SetSharpness" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="10" y="760" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-32" target="2V859yG5IAHDhK3OwIjZ-35">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-32" target="2V859yG5IAHDhK3OwIjZ-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-39" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Glue_mtvdo.c (vendor\mediatek\proprietary_tv\apollo\linux_core\driver\linux_app_if\mtal\sglue)&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-39" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Glue_mtvdo.c (vendor\mediatek\proprietary_tv\apollo\linux_core\driver\linux_app_if\mtal\sglue)&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="420" y="691.42" width="200" height="28.58" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-40" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Glue_mtvdo.c (vendor\mediatek\proprietary_tv\apollo\linux_core\driver\linux_app_if\mtal\sglue)&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-40" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Glue_mtvdo.c (vendor\mediatek\proprietary_tv\apollo\linux_core\driver\linux_app_if\mtal\sglue)&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="440" y="760" width="200" height="28.58" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-41" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=none;" edge="1" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-43">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-41" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=none;" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-43" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="660" as="sourcePoint" />
             <mxPoint x="820" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-43" value="MTAL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-43" value="MTAL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="250" y="640" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-44" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="2V859yG5IAHDhK3OwIjZ-65" target="2V859yG5IAHDhK3OwIjZ-43">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-44" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="2V859yG5IAHDhK3OwIjZ-65" target="2V859yG5IAHDhK3OwIjZ-43" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="660" as="sourcePoint" />
             <mxPoint x="820" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-46" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Mi_wrapper_disp.c (vendor\mediatek\proprietary_tv\apollo\linux_core\misdk\mi\mi\mik\wrapper\src)&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-46" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Mi_wrapper_disp.c (vendor\mediatek\proprietary_tv\apollo\linux_core\misdk\mi\mi\mik\wrapper\src)&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="440" y="840" width="200" height="28.58" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-47" value="MI_DISP_SetPictureParam" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-47" value="MI_DISP_SetPictureParam" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="10" y="840" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-35" target="2V859yG5IAHDhK3OwIjZ-47">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-35" target="2V859yG5IAHDhK3OwIjZ-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-51" value="_MI_DEV_DISP_DoIoctl" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-51" value="_MI_DEV_DISP_DoIoctl" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="10" y="920" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-47" target="2V859yG5IAHDhK3OwIjZ-51">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-47" target="2V859yG5IAHDhK3OwIjZ-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-53" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Mi_dev_disp.c (vendor\mediatek\proprietary_tv\apollo\linux_core\misdk\mi\mi\mik\device\disp\src)&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;case MI_DEV_IOC_DISP_SET_PICTUREPARAM&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-53" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Mi_dev_disp.c (vendor\mediatek\proprietary_tv\apollo\linux_core\misdk\mi\mi\mik\device\disp\src)&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;case MI_DEV_IOC_DISP_SET_PICTUREPARAM&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="440" y="920" width="200" height="28.58" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-54" value="MI_DISP_SetPictureParam" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-54" value="MI_DISP_SetPictureParam" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="10" y="1000" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-51" target="2V859yG5IAHDhK3OwIjZ-54">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-51" target="2V859yG5IAHDhK3OwIjZ-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-56" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Mi_disp.h(库文件) (vendor\mediatek\proprietary_tv\apollo\linux_core\misdk\mi\mi\mi_header)&lt;span style=&quot;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-56" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Mi_disp.h(库文件) (vendor\mediatek\proprietary_tv\apollo\linux_core\misdk\mi\mi\mi_header)&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="440" y="1000" width="200" height="28.58" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-62" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;startArrow=none;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" edge="1" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-63">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-62" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;startArrow=none;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="2V859yG5IAHDhK3OwIjZ-65" source="2V859yG5IAHDhK3OwIjZ-63" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="980" as="sourcePoint" />
             <mxPoint x="820" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-63" value="To Kernel&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="2V859yG5IAHDhK3OwIjZ-65">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-63" value="To Kernel&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="2V859yG5IAHDhK3OwIjZ-65" vertex="1">
           <mxGeometry x="250" y="960" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2V859yG5IAHDhK3OwIjZ-64" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" edge="1" parent="2V859yG5IAHDhK3OwIjZ-65" target="2V859yG5IAHDhK3OwIjZ-63">
+        <mxCell id="2V859yG5IAHDhK3OwIjZ-64" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="2V859yG5IAHDhK3OwIjZ-65" target="2V859yG5IAHDhK3OwIjZ-63" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="980" as="sourcePoint" />
             <mxPoint x="840" y="980" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MxITxeJPSflsf2F7-Rvw-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxITxeJPSflsf2F7-Rvw-52" target="2V859yG5IAHDhK3OwIjZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxITxeJPSflsf2F7-Rvw-52" value="&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;setPictureModeDefaultCfg &lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;MtkTvFApiDisplayBase.java&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="-817" y="-3458" width="185" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MxITxeJPSflsf2F7-Rvw-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxITxeJPSflsf2F7-Rvw-59" target="MxITxeJPSflsf2F7-Rvw-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxITxeJPSflsf2F7-Rvw-59" value="&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;span style=&quot;font-size: 9.8pt; background-color: initial;&quot;&gt;setPictureModeDefaultCfg&amp;nbsp;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;MtkTvFApiDisplay.java&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="-595" y="-3458" width="185" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MxITxeJPSflsf2F7-Rvw-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxITxeJPSflsf2F7-Rvw-61" target="MxITxeJPSflsf2F7-Rvw-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxITxeJPSflsf2F7-Rvw-61" value="&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;PictureModeAdjustViewHolder.java&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="-292" y="-3458" width="251" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MxITxeJPSflsf2F7-Rvw-63" value="&lt;b&gt;from APP&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-385" y="-3463" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
