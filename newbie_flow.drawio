@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T07:46:41.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71" etag="93u670ivysW8J9u6F_yw" version="20.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T07:49:08.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71" etag="ibzJjSTmprHyFqqWrruF" version="20.1.2" type="github">
   <diagram id="5cb1daBF80GTj0REnkLk" name="第 1 页">
-    <mxGraphModel dx="1038" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="634" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,7 +87,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D6tjtGbjB5FS4-WhxPt_-28" value="开始安排具体工作&lt;br&gt;每天下班提交日报&lt;br&gt;（日报：1.完成什么 2.什么在进行中 3.有遇到什么困难等, 简述即可）" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="D6tjtGbjB5FS4-WhxPt_-48">
+        <mxCell id="D6tjtGbjB5FS4-WhxPt_-28" value="开始安排具体工作&lt;br&gt;每天下班提交日报、周末交周报&lt;br&gt;（日报：1.完成什么 2.什么在进行中 3.有遇到什么困难等, 简述即可）" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="D6tjtGbjB5FS4-WhxPt_-48">
           <mxGeometry x="300" y="270" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D6tjtGbjB5FS4-WhxPt_-33" value="申请公司邮箱（钉钉 - 韩轶）" style="whiteSpace=wrap;html=1;" vertex="1" parent="D6tjtGbjB5FS4-WhxPt_-48">
@@ -125,6 +125,9 @@
             <mxPoint x="350" y="310" as="sourcePoint" />
             <mxPoint x="400" y="260" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="D6tjtGbjB5FS4-WhxPt_-83" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D6tjtGbjB5FS4-WhxPt_-48">
+          <mxGeometry x="410" y="97" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
